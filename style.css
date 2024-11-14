@@ -1,0 +1,127 @@
+/*
+Theme Name: Krystal Lawyer
+Theme URI: https://www.spiraclethemes.com/krystal-lawyer-free-wordpress-theme/
+Author: Spiracle Themes
+Author URI: https://www.spiraclethemes.com
+Description: Krystal Lawyer is a free WordPress theme which helps you to create a website in just few minutes. You can create law firms, attorneys, counsel, legal adviser, legal experts websites and many more from this WordPress theme. Theme provides lots of options and is easily customizable through the Customizer. Optimized for speed and 1 click demo import options this theme is quick to setup. More information here: https://www.spiraclethemes.com/krystal-lawyer-free-wordpress-theme/
+Version: 1.2.3
+Template: krystal
+License: GNU General Public License v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tested up to: 6.1
+Requires PHP: 5.6
+Tags: right-sidebar,left-sidebar,custom-menu,featured-images,theme-options,blog,custom-colors,custom-logo,flexible-header,threaded-comments,one-column,full-width-template,sticky-post,translation-ready
+Text Domain: krystal-lawyer
+*/
+
+
+/**
+====================================================================
+  General
+====================================================================
+*/
+
+html,body {   
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    letter-spacing: 0.5px;    
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+.page-title.default {
+	background: #555;
+}
+
+/**
+====================================================================
+  Social menu
+====================================================================
+*/
+
+#menu-social-menu li a {
+    padding-bottom: 5px;
+}
+
+#menu-social-menu li a .social-menu-wrap {
+    display: none;
+}
+
+#menu-social-menu li a::before {
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    width: 37px;
+    line-height: 37px;
+    border-radius: 50%;
+    font-family: FontAwesome;
+    color: inherit;
+}
+
+#menu-social-menu li a[href*="facebook.com"]::before {
+  content: "\f09a";
+  background: #3b5998;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="twitter.com"]::before {
+  content: "\f099";
+  background: #1da1f2;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="instagram.com"]::before {
+  content: "\f16d";
+  background: #df2176;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="plus.google.com"]::before {
+  content: "\f0d5";
+  background: #ea4335;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="linkedin.com"]::before {
+  content: "\f0e1";
+  background: #0078bb;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="pinterest.com"]::before {
+  content: "\f231";
+  background: #cc0000;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="behance.net"]::before {
+  content: "\f1b4";
+  background: #4465ff;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="github.com"]::before {
+  content: "\f09b";
+  background: #000;
+  color: #fff;
+}
+
+#menu-social-menu li a[href*="youtube.com"]::before {
+  content: "\f167";
+  background: #f40a;
+  color: #fff;
+}
+
+#menu-social-menu.footer-menu li {
+    padding: 0;
+    display: inline-block;
+}
+
+
+@media (max-width: 991px) {
+  #krystal-main-menu-wrapper .navbar-collapse.collapse.show {
+    display: block !important;
+  }
+}

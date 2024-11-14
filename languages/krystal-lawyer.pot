@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-30 21:53+0530\n"
+"PO-Revision-Date: 2023-01-30 21:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:33
+msgid ""
+"You need to update your PHP version to a minimum of 5.6 to run Krystal "
+"Lawyer WordPress Theme."
+msgstr ""
+
+#: functions.php:34
+msgid "Actual version is:"
+msgstr ""
+
+#: functions.php:34
+msgid "required is"
+msgstr ""
+
+#: functions.php:99
+msgid "Footer Social Menu"
+msgstr ""
+
+#: functions.php:111
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:132
+msgid "Search products."
+msgstr ""
+
+#: functions.php:135 template-parts/product-search.php:40
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/customizer.php:32 inc/customizer/customizer.php:47
+msgid "Header Menu Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+msgid "Make last menu item as button"
+msgstr ""
+
+#: inc/customizer/customizer.php:71
+msgid ""
+"This will make last menu item as button which can be used as a call to action"
+msgstr ""
+
+#: inc/customizer/customizer.php:86
+msgid "Button Styles"
+msgstr ""
+
+#: inc/customizer/customizer.php:110
+msgid "Select button styles:"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+msgid ""
+"Note: This option will only work when the above (menu item as button) option "
+"is enabled."
+msgstr ""
+
+#: inc/customizer/customizer.php:113 inc/customizer/customizer.php:149
+msgid "Rounded button with background"
+msgstr ""
+
+#: inc/customizer/customizer.php:114 inc/customizer/customizer.php:150
+msgid "Square button with border only"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "About Krystal Lawyer Theme"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "About Krystal Lawyer"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "krystal-lawyer-theme-info"
+msgstr ""
+
+#: inc/theme-info.php:135
+msgid "krystal_lawyer_theme_info"
+msgstr ""
+
+#: inc/theme-info.php:148
+msgid "Thank you for using Krystal Lawyer free WordPress theme"
+msgstr ""
+
+#: inc/theme-info.php:150
+msgid ""
+"Krystal Lawyer is a free WordPress theme which helps you to create a website "
+"in just few minutes. You can create law firms, attorneys, counsel, legal "
+"adviser, legal experts websites and many more from this WordPress theme. "
+"Theme provides lots of options and is easily customizable through the "
+"Customizer. Optimized for speed and 1 click demo import options this theme "
+"is quick to setup."
+msgstr ""
+
+#: inc/theme-info.php:162
+msgid "VIEW DEMO"
+msgstr ""
+
+#: inc/theme-info.php:172
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/theme-info.php:182
+msgid "VIDEO TUTORIALS"
+msgstr ""
+
+#: inc/theme-info.php:192
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/theme-info.php:203
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/theme-info.php:213
+msgid "VIEW CHANGELOGS"
+msgstr ""
+
+#: inc/theme-info.php:221
+msgid "FREE VS PRO"
+msgstr ""
+
+#: inc/theme-info.php:226
+msgid "Feature"
+msgstr ""
+
+#: inc/theme-info.php:227
+msgid "Krystal Free"
+msgstr ""
+
+#: inc/theme-info.php:228
+msgid "Krystal PRO"
+msgstr ""
+
+#: inc/theme-info.php:233
+msgid "Parallax Background Image"
+msgstr ""
+
+#: inc/theme-info.php:238
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/theme-info.php:243
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/theme-info.php:248
+msgid "Contact Form"
+msgstr ""
+
+#: inc/theme-info.php:253
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/theme-info.php:258
+msgid "Color Settings"
+msgstr ""
+
+#: inc/theme-info.php:263
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: inc/theme-info.php:268
+msgid "Sticky Header Option"
+msgstr ""
+
+#: inc/theme-info.php:273
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/theme-info.php:278
+msgid "Breadcrumb Display"
+msgstr ""
+
+#: inc/theme-info.php:283
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/theme-info.php:288
+msgid "Top Social Icons"
+msgstr ""
+
+#: inc/theme-info.php:293
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: inc/theme-info.php:298
+msgid "Default Slider"
+msgstr ""
+
+#: inc/theme-info.php:303
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-info.php:308
+msgid "Header Search"
+msgstr ""
+
+#: inc/theme-info.php:313
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: inc/theme-info.php:318
+msgid "Extra Customizer Settings"
+msgstr ""
+
+#: inc/theme-info.php:323
+msgid "Sortable Portfolio"
+msgstr ""
+
+#: inc/theme-info.php:328
+msgid "Extra Premium Demos"
+msgstr ""
+
+#: inc/theme-info.php:333
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info.php:340
+msgid "Buy Krystal PRO"
+msgstr ""
+
+#: inc/widgets/footer-social-widget.php:20
+msgid "Krystal Lawyer: Footer Social Widget"
+msgstr ""
+
+#: inc/widgets/footer-social-widget.php:21
+msgid "Adds Social icons to footer widgets."
+msgstr ""
+
+#: inc/widgets/footer-social-widget.php:71
+msgid "Title:"
+msgstr ""
+
+#: inc/woocommerce-functions.php:146
+msgid "SHOP"
+msgstr ""
+
+#: template-parts/product-search.php:25
+msgid "All Categories"
+msgstr ""
+
+#: template-parts/product-search.php:39
+msgid "Search products&hellip;"
+msgstr ""
